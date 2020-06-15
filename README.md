@@ -6,4 +6,4 @@ Feel free to use the repo to create your own website!
 
 ## Copyright and license
 
-Code copyright 2020 Shih-Chieh Dai. Code released under [the MIT license](https://github.com/sjdai/sjdai.github.io/blob/add-license-1/LICENSE).
+Code copyright 2020 Shih-Chieh Dai. Code released under [the MIT license](https://github.com/sjdai/sjdai.github.io/blob/master/LICENSE).
