@@ -1,4 +1,4 @@
-[Link](sjdai.github.io)
+[Link](https://sjdai.github.io)
 
 This is my personal website. I made this website by [Bulma](https://github.com/jgthms/bulma)
 
